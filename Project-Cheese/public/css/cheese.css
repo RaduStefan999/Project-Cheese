@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 204, 0);
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px;
+}
+
+.cheese-btn {
+    background-color: rgba(255, 0, 0, 0.7); 
+    border: none;
+    color: white;
+    padding: 5px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px;
+}
+.cheese-btn:hover {
+    background-color: rgba(255, 0, 0, 0.4); 
+    text-decoration: none;
+    color: rgb(255, 204, 0);
+}
